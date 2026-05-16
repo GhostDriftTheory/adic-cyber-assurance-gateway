@@ -3469,4 +3469,3 @@ end
 
 end ADIC
 
-#check_no_sorry
