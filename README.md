@@ -1,5 +1,5 @@
 # ADIC R-SOUND Replay Verification
-[![Lean CI](https://github.com/GhostDriftTheory/adic-lean-proof-replay/actions/workflows/ci.yml/badge.svg)](https://github.com/GhostDriftTheory/adic-lean-proof-replay/actions/workflows/ci.yml)
+[![Lean CI](https://github.com/GhostDriftTheory/adic-lean-proof-replay/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GhostDriftTheory/adic-lean-proof-replay/actions/workflows/ci.yml)
 
 This repository contains a reproducible Lean 4 proof artifact for ADIC replay verification.
 
