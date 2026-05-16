@@ -3469,3 +3469,6 @@ end
 
 end ADIC
 
+#print axioms ADIC.ReplayCore.verifierBool_sound
+#print axioms ADIC.ReplayCore.verifierDAGBool_direct_sound
+#print axioms ADIC.ReplayCore.dagCert_end_to_end_sound
